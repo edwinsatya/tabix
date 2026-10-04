@@ -6,8 +6,8 @@ import { ph } from "@/lib/placeholder";
  */
 export const site = {
   name: "Arsa Mahendra",
-  firstName: "Arsa",
-  lastName: "Mahendra",
+  firstName: "tabix",
+  lastName: "",
   monogram: "AM",
   role: "UI/UX Designer & Painter",
   tagline: "Interface design × monochromatic paint",
